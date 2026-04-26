@@ -83,9 +83,7 @@ const LoginPage = () => {
           </button>
         </form>
 
-        <p style={{ marginTop: '2rem', textAlign: 'center', fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-          Secure session mapping and role detection enabled.
-        </p>
+
       </div>
     </div>
   );
